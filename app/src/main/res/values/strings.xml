@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MVVMRetrofit</string>
+    <string name="users_btn_text">Users</string>
+    <string name="posts_btn_text">POSTS</string>
+    <string name="comments_btn_text">comments</string>
+    <string name="todos_btn_text">TODOS</string>
+    <string name="categories_btn_text">categories</string>
+    <string name="products_btn_text">products</string>
+    <string name="product_categories_btn_text">product-categories</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
